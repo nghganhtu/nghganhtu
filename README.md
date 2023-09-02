@@ -85,7 +85,7 @@
 
 [![Loan Prediction](https://github-readme-stats.vercel.app/api/pin/?username=nghganhtu&repo=Loan-Prediction&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/nghganhtu/Loan-Prediction)
 [![AQI Estimation](https://github-readme-stats.vercel.app/api/pin/?username=nghganhtu&repo=AQI-Estimation&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/nghganhtu/AQI-Estimation)
-[![Depression Prediction](https://github-readme-stats.vercel.app/api/pin/?username=nghganhtu&repo=VNICT_Depression&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/nghganhtu/VNICT_Depression)
+[![Depression Classification](https://github-readme-stats.vercel.app/api/pin/?username=nghganhtu&repo=Depression-Classification&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/nghganhtu/Depression-Classification)
 [![Traffic Sign Classification](https://github-readme-stats.vercel.app/api/pin/?username=nghganhtu&repo=Traffic-Sign-Classification&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/nghganhtu/Traffic-Sign-Classification)
 
 
