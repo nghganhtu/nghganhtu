@@ -17,7 +17,7 @@
   <samp>
     <a href="https://www.google.com/search?q=betterday+lắng+nghe&client=opera&hs=5m5&sca_esv=562142396&sxsrf=AB5stBjqF3cNlrK4pATZl0Gs9ereVEkk3A%3A1693643998758&ei=3vTyZI_mLYG6wAPljZmoCA&ved=0ahUKEwiPza_Hw4uBAxUBHXAKHeVGBoUQ4dUDCBA&uact=5&oq=betterday+lắng+nghe&gs_lp=Egxnd3Mtd2l6LXNlcnAiFWJldHRlcmRheSBs4bqvbmcgbmdoZTIFECEYoAEyBRAhGKABMgUQIRigAUjvF1ClClj3FHAGeAGQAQKYAZcBoAG8DaoBBDEuMTO4AQPIAQD4AQHCAgoQABhHGNYEGLADwgIIEAAYgAQYywHCAgYQABgeGA3CAggQABgeGA0YCsICCBAAGAgYHhgNwgIHECEYoAEYCuIDBBgAIEGIBgGQBgI&sclient=gws-wiz-serp">「 Google Me 」</a>
     <br>
-    「 I am a fresher in AI Engineering <b>Vietnam</b> 」
+    「 I am a fresher in AI Engineering in <b>Vietnam</b> 」
     <br>
     <br>
   </samp>
@@ -116,7 +116,7 @@
 </a>
 
 
-![Tu's Graph](https://github-readme-activity-graph.cyclic.app/graph?username=nghganhtu&custom_title=Tu's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Tu's Graph](https://github-readme-activity-graph.cyclic.app/graph?username=nghganhtu&custom_title=%20Tu's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <!--
 **nghganhtu/nghganhtu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
