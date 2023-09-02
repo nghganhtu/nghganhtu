@@ -23,39 +23,36 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://alsiam.com">Saif Al Siam</a></b>
+                <b><a target="_blank" href="https://nguyen-hoang-anh-tu.jimdosite.com">Tu Nguyen Hoang Anh</a></b>
         </samp>
 </h3>
 
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Saif+Al+Siam">「 Google Me 」</a>
+    <a href="https://www.google.com/search?q=betterday+lắng+nghe&client=opera&hs=5m5&sca_esv=562142396&sxsrf=AB5stBjqF3cNlrK4pATZl0Gs9ereVEkk3A%3A1693643998758&ei=3vTyZI_mLYG6wAPljZmoCA&ved=0ahUKEwiPza_Hw4uBAxUBHXAKHeVGBoUQ4dUDCBA&uact=5&oq=betterday+lắng+nghe&gs_lp=Egxnd3Mtd2l6LXNlcnAiFWJldHRlcmRheSBs4bqvbmcgbmdoZTIFECEYoAEyBRAhGKABMgUQIRigAUjvF1ClClj3FHAGeAGQAQKYAZcBoAG8DaoBBDEuMTO4AQPIAQD4AQHCAgoQABhHGNYEGLADwgIIEAAYgAQYywHCAgYQABgeGA3CAggQABgeGA0YCsICCBAAGAgYHhgNwgIHECEYoAEYCuIDBBgAIEGIBgGQBgI&sclient=gws-wiz-serp">「 Google Me 」</a>
     <br>
-    「 I am a full stack web appplication developer from <b>Bangladesh</b> 」
+    「 I am a fresher in AI Engineering <b>Vietnam</b> 」
     <br>
     <br>
   </samp>
 </p>
 
 <p align="center">
- <a href="https://alsiam.com" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
+ <a href="https://nguyen-hoang-anh-tu.jimdosite.com" target="blank">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="nghganhtu" />
  </a>
- <a href="https://linkedin.com/in/saifalsiam" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
+ <a href="https://www.linkedin.com/in/tu-nguyen-hoang-anh/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="nghganhtu"/>
  </a>
- <a href="https://dev.to/alsiam" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
+ <a href="https://www.tiktok.com/@betterdayiu" target="_blank">
+  <img src="https://img.shields.io/badge/Tiktok-0A0A0A?style=for-the-badge&logo=Tiktok&logoColor=white" alt="nghganhtu" />
  </a>
- <a href="https://twitter.com/alsiam_dev" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
- </a>
- <a href="https://instagram.com/alsiam.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
+ <a href="https://www.instagram.com/nguyenjoseph3/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="nghganhtu" />
  </a> 
- <a href="https://facebook.com/alsiam.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
+ <a href="https://www.facebook.com/profile.php?id=100084848316418" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="nghganhtu"  />
   </a> 
 </p>
 <br />
@@ -68,8 +65,9 @@
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: alsiam.dev@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/alsiam/alsiam/issues)
+ ⚡ &emsp; Interesting in Psychology and SDGs 
+ 📧 &emsp; Reach me anytime: nghganhtu@gmail.com<br/><br/>
+ 💬 &emsp; Ask me about anything [here](https://github.com/nghganhtu/nghganhtu/issues)
 
 </p>
 
@@ -79,10 +77,16 @@
 
 ## Use To Code
 
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
-![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-F0DB4F?style=for-the-badge&labelColor=black&logo=python&logoColor=F0DB4F)
+![Django](https://img.shields.io/badge/Django-007acc?style=for-the-badge&labelColor=black&logo=django&logoColor=007acc)
+![ODOO](https://img.shields.io/badge/-ODOO-61DBFB?style=for-the-badge&labelColor=black&logoColor=61DBFB)
+![Pycharm](https://img.shields.io/badge/Pycharm-20232A?style=for-the-badge&logo=pycharm&logoColor=61DAFB)
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
