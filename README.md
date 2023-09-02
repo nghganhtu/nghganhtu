@@ -1,4 +1,3 @@
-![alt text](./images/header.svg)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science+Student;AI+Engineer;AI%20Enthusiastic;Psychology%20and%20SDGs&center=true&width=380&height=45">
