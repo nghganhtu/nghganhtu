@@ -1,8 +1,8 @@
+![alt text](./images/header.svg)
 
-
-<a href="https://komarev.com/ghpvc/?username=nghganhtu">
-  <img align="right" src="https://komarev.com/ghpvc/?username=nghganhtu&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science+Student;AI+Engineer;AI%20Enthusiastic;Psychology%20and%20SDGs&center=true&width=380&height=45">
+</p>
 
 
 <!-- Intro  -->
