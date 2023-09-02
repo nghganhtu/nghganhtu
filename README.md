@@ -84,10 +84,13 @@
 <br/>
 
 ## Top Open Source -
-[![AI4E Project](https://github.com/nghganhtu/AI4E_Project)
-[![BetterDayHospital](https://github.com/nghganhtu/BetterDayHospital)
-[![Depression Prediction](https://github.com/nghganhtu/VNICT_Depression)
-[![Traffic Sign Classification](https://github.com/nghganhtu/Traffic-Sign-Classification)
+
+[![AI4E Project](https://github-readme-stats.vercel.app/api/pin/?username=nghganhtu&repo=AI4E_Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/nghganhtu/AI4E_Project)
+[![BetterDayHospital](https://github-readme-stats.vercel.app/api/pin/?username=nghganhtu&repo=BetterDayHospital&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/nghganhtu/BetterDayHospital)
+[![Depression Prediction](https://github-readme-stats.vercel.app/api/pin/?username=nghganhtu&repo=VNICT_Depression&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/nghganhtu/VNICT_Depression)
+[![Traffic Sign Classification](https://github-readme-stats.vercel.app/api/pin/?username=nghganhtu&repo=Traffic-Sign-Classification&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/nghganhtu/Traffic-Sign-Classification)
+
+
 
 <p align="left">
   <a href="https://github.com/nghganhtu?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
@@ -116,19 +119,4 @@
 </a>
 
 
-![Tu's Graph](https://github-readme-activity-graph.cyclic.app/graph?username=nghganhtu&custom_title=%20Tu's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
-<!--
-**nghganhtu/nghganhtu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
